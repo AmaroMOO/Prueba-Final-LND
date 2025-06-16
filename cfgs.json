@@ -1,0 +1,30 @@
+{
+    "ciclos":
+        [
+            {
+                "posicion": 1,
+                "nombre": "Técnico Superior en Administración y Finanzas",
+                "familia_profesional": "Administración y gestión"
+            },
+            {
+                "posicion": 2,
+                "nombre": "Técnico Superior en Educación Infantil",
+                "familia_profesional": "Servicios Socioculturales y a la Comunidad"
+            },
+            {
+                "posicion": 3,
+                "nombre": "Técnico Superior en Desarrollo de Aplicaciones Multiplataforma",
+                "familia_profesional": "Informática y Comunicaciones"
+            },
+            {
+                "posicion": 4,
+                "nombre": "Técnico Superior en Administración de Sistemas Informáticos en Red",
+                "familia_profesional": "Informática y Comunicaciones"
+            },
+            {
+                "posicion": 5,
+                "nombre": "Técnico Superior en Integración Social",
+                "familia_profesional": "Servicios Socioculturales y a la Comunidad"
+            }
+        ]
+}
